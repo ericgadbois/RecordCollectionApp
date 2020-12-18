@@ -1,0 +1,16 @@
+{"albums": [
+    {
+        "listens": 0,
+        "artist": "Eagles",
+        "name": "Hotel California",
+        "length": 99,
+        "rating": 0
+    },
+    {
+        "listens": 0,
+        "artist": "Steeley Dan",
+        "name": "aja",
+        "length": 110,
+        "rating": 0
+    }
+]}

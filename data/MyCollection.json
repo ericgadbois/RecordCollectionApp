@@ -1,0 +1,16 @@
+{"albums": [
+    {
+        "listens": 1,
+        "artist": "21 Savage",
+        "name": "Savage Mode II",
+        "length": 44,
+        "rating": 5
+    },
+    {
+        "listens": 0,
+        "artist": "Kanye West",
+        "name": "Yeezus",
+        "length": 44,
+        "rating": 0
+    }
+]}
